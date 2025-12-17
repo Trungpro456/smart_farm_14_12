@@ -1,0 +1,8 @@
+eventlet
+Flask
+Flask-SocketIO
+Flask-MQTT
+pandas
+joblib
+numpy
+tflite-runtime
